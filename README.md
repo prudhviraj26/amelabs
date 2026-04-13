@@ -17,7 +17,7 @@ This repository contains independent lab environments, each focusing on differen
 
 ### Lab 1: Azure Monitor Agents & Essentials Lab
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/microsoft/amelabs/refs/heads/main/azmon-lab-agents-essentials/init-lab.sh)
+bash <(curl -s https://raw.githubusercontent.com/prudhviraj26/amelabs/refs/heads/main/azmon-lab-agents-essentials/init-lab.sh)
 ```
 
 ### Lab 2: AMPLS & Application Insights Lab  
