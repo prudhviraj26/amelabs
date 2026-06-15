@@ -96,25 +96,3 @@ Coverage of Windows, Linux, and various application platforms.
 4. **Follow the interactive prompts** for configuration
 5. **Explore the deployed resources** and monitoring capabilities
 
-## 🤝 Contributing
-
-We welcome contributions! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Test your changes thoroughly
-4. Submit a pull request with a clear description
-
-## 📞 Support & Issues
-
-- **Documentation**: Check the individual lab README files
-- **Issues**: Open an issue in this GitHub repository
-- **Questions**: Review the troubleshooting sections in each lab
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🔒 Security
-
-Please review our [Security Policy](SECURITY.md) for reporting security vulnerabilities.
-
